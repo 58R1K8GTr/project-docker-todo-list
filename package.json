@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/betrybe/sd-0x-project-docker-todo-list#readme",
   "devDependencies": {
-    "jest": "27.2.3",
-    "uuid": "14.0.0"
+    "jest": "30.4.2",
+    "uuid": "8.3.2"
   }
 }
